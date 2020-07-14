@@ -2,6 +2,9 @@
 
 This service is responsible to connect microservices. 
 
-1. First microservice: https://github.com/allanroberto18/customer-ms-kafka-serie
+1. Customer Micro Service: https://github.com/allanroberto18/customer-ms-kafka-serie
+2. Products Micro Service: https://github.com/allanroberto18/product-ms-kafka-serie
+3. Orders Micro Service: ???
+4. Delivery Micro Service: ???  
 
 After run the application, you can check the available endpoints on http://localhost:8761
